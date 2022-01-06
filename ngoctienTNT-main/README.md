@@ -1,7 +1,7 @@
-# <p align="center">𝓣𝓻𝓪̂̀𝓷 𝓝𝓰𝓸̣𝓬 𝓣𝓲𝓮̂́𝓷</p>
+# <p align="center">Trần Tuấn Anh</p>
 
 <p align="center">
-	<a href="https://github.com/ngoctienTNT">
+	<a href="https://github.com/tuananhs702">
 	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
 	</a>
 </p>
